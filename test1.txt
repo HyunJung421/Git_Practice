@@ -6,3 +6,6 @@ My branch hjlim!!!
 
 [ Test3 ]
 Switch to main branch!!!
+
+[ Test4 ]
+sqush and Merge -> commit again!!!
