@@ -9,3 +9,6 @@ Switch to main branch!!!
 
 [ Test4 ]
 sqush and Merge -> commit again!!!
+
+[ Test5 ]
+After rebase!!!!
